@@ -1,4 +1,4 @@
-# number-guessing-game-c
+ 🎯 Number Guessing Game in C
 
 This is a simple Number Guessing Game created using the C programming language.
 
